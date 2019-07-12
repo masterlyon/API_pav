@@ -24,5 +24,8 @@
     "categoria": "Música",
     "imagen": "https://falabella.scene7.com/is/image/Falabella/6884945_1?$producto308$&wid=800&hei=800&qlt=70"
   },
- ]
+ ],
+ "Perfil":{
+   "name":"test"
+ }
 }

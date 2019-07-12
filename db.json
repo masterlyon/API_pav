@@ -26,18 +26,21 @@
   },
   {    
   "id": 4,
+    "nombre": "",
     "precio": "7.500",
     "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/2-vol.jpg?raw=true"
   },
   {
     "id": 5,
+    "nombre": "",
     "precio": "8.500",
     "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen10.jpg?raw=true"
   },
   {
     "id": 6,
+    "nombre": "",
     "precio": "0",
     "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen7-1.jpg?raw=true"

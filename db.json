@@ -5,7 +5,7 @@
     "nombre": "El nuevo estilo tropical",
     "precio": "7.500",
     "descripción": "Los Hermanos Araya, fueron el grupo revelación en su género musical conquistando cada uno de los lugares de las distintas ciudades de Chile, con su talento y sus boses que se amalgaman perfectamente, llegaron a ser finalistas y triunfadores en uno de los programas más exitosos de la TV. Chilena en el año 1995. Ahí parte todo con su primer volumen denominado La nueva canción Ranchera bajo el Sello musical Sony Music CHILE...",
-    "categoria": "Música",
+    "categoria": "CD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/2-vol.jpg?raw=true"
   },
   {
@@ -13,7 +13,7 @@
     "nombre": "Los chicos de la cumbia",
     "precio": "8.500",
     "descripción": "Después del triunfo conseguido en el programa casa talentos y luego de haber obtenido su primer contrato para la prestigiosa empresa musical “SONY MUSIC ENTERTAIMENT CHILE LTDA” más todas las presentaciones radiales y televisivas, graban su segundo álbum denominado Los Chicos de la Cumbia el cual, contiene 12 temas totalmente nuevos al puro estilo H.A obteniendo disco de oro en tan solo 5 meses de su lanzamiento...",
-    "categoria": "Música",
+    "categoria": "CD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen10.jpg?raw=true"
   },
   {
@@ -21,31 +21,28 @@
     "nombre": "Lo último de los H. Araya",
     "precio": "0",
     "descripción": "Actualmente se encuentran trabajando en su nuevo disco aún con un nombre incognito y desconocido. Los Hermanos Araya, son actualmente el único grupo del sector con más trayectoria en este género musical. En este último proyecto, desfrutaras de nuevos temas también inéditos y compatibles con el público que disfruta de la música popular, les dejamos acá uno de los últimos temas que ya está sonando en las radios de todo del país, ve a detalles...",
-    "categoria": "Música",
+    "categoria": "CD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen7-1.jpg?raw=true"
   },
   {    
   "id": 4,
     "nombre": "El nuevo estilo tropical",
     "precio": "7.500",
-    "descripción": "Los Hermanos Araya, fueron el grupo revelación en su género musical conquistando cada uno de los lugares de las distintas ciudades de Chile, con su talento y sus boses que se amalgaman perfectamente, llegaron a ser finalistas y triunfadores en uno de los programas más exitosos de la TV. Chilena en el año 1995. Ahí parte todo con su primer volumen denominado La nueva canción Ranchera bajo el Sello musical Sony Music CHILE...",
-    "categoria": "Música",
+    "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/2-vol.jpg?raw=true"
   },
   {
     "id": 5,
     "nombre": "Los chicos de la cumbia",
     "precio": "8.500",
-    "descripción": "Después del triunfo conseguido en el programa casa talentos y luego de haber obtenido su primer contrato para la prestigiosa empresa musical “SONY MUSIC ENTERTAIMENT CHILE LTDA” más todas las presentaciones radiales y televisivas, graban su segundo álbum denominado Los Chicos de la Cumbia el cual, contiene 12 temas totalmente nuevos al puro estilo H.A obteniendo disco de oro en tan solo 5 meses de su lanzamiento...",
-    "categoria": "Música",
+    "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen10.jpg?raw=true"
   },
   {
     "id": 6,
     "nombre": "Lo último de los H. Araya",
     "precio": "0",
-    "descripción": "Actualmente se encuentran trabajando en su nuevo disco aún con un nombre incognito y desconocido. Los Hermanos Araya, son actualmente el único grupo del sector con más trayectoria en este género musical. En este último proyecto, desfrutaras de nuevos temas también inéditos y compatibles con el público que disfruta de la música popular, les dejamos acá uno de los últimos temas que ya está sonando en las radios de todo del país, ve a detalles...",
-    "categoria": "Música",
+    "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen7-1.jpg?raw=true"
   }
  ],

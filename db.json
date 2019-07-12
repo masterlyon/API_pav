@@ -3,9 +3,9 @@
   {
     "id": 1,
     "nombre": "El nuevo estilo tropical",
-    "Precio CD": "7.500",
-    "Descripción": "Los Hermanos Araya, fueron el grupo revelación en su género musical conquistando cada uno de los lugares de las distintas ciudades de Chile, con su talento y sus boses que se amalgaman perfectamente, llegaron a ser finalistas y triunfadores en uno de los programas más exitosos de la TV. Chilena en el año 1995. Ahí parte todo con su primer volumen denominado La nueva canción Ranchera bajo el Sello musical Sony Music CHILE...",
-    "Categoria": "Música",
+    "precio CD": "$7.500",
+    "descripción": "Los Hermanos Araya, fueron el grupo revelación en su género musical conquistando cada uno de los lugares de las distintas ciudades de Chile, con su talento y sus boses que se amalgaman perfectamente, llegaron a ser finalistas y triunfadores en uno de los programas más exitosos de la TV. Chilena en el año 1995. Ahí parte todo con su primer volumen denominado La nueva canción Ranchera bajo el Sello musical Sony Music CHILE...",
+    "categoria": "Música",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/1-vol_grande.jpg?raw=true"
   },
   {

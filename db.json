@@ -28,7 +28,7 @@
     "id": 4,
     "nombre": "",
     "precio": "12.500",
-    "descripción":""
+    "descripción":"",
     "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/2-vol.jpg?raw=true"
   },
@@ -36,7 +36,7 @@
     "id": 5,
     "nombre": "",
     "precio": "16.500",
-    "descripción":""
+    "descripción":"",
     "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen10.jpg?raw=true"
   },
@@ -44,7 +44,7 @@
     "id": 6,
     "nombre": "",
     "precio": "0",
-    "descripción":""
+    "descripción":"",
     "categoria": "DVD",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen7-1.jpg?raw=true"
   },    
@@ -52,7 +52,7 @@
   "id": 7,
     "nombre": "",
     "precio": "3.000",
-    "descripción":""
+    "descripción":"",
     "categoria": "CASSETTE",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/2-vol.jpg?raw=true"
   },
@@ -60,7 +60,7 @@
     "id": 8,
     "nombre": "",
     "precio": "5.500",
-    "descripción":""
+    "descripción":"",
     "categoria": "CASSETTE",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen10.jpg?raw=true"
   },
@@ -68,7 +68,7 @@
     "id": 9,
     "nombre": "",
     "precio": "0",
-    "descripción":""
+    "descripción":"",
     "categoria": "CASSETTE",
     "imagen": "https://github.com/masterlyon/Hnos_Araya/blob/master/img/imagen7-1.jpg?raw=true"
   }
